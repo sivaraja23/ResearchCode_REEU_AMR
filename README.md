@@ -6,6 +6,6 @@ REEU AMR project
 
 ## objectives 
 
- - Plot the data into comprehensible bar plots/ scatter plots
+ - plot the frequency of each unique location, sample host, collection year
  - present in powerpoint
- - 
+ 
